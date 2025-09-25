@@ -1,12 +1,4 @@
-"""
-Bernhard Roth, 16.04.2021, ETH Zürich
-This library offers methods for postprocessing of particles trajectories,
-such as:
-    - .piv import/export
-    - Track reconnecting
-    - Extrapolation
-    - Visualization and Statistics
-"""
+
 # standard modules
 import time
 
