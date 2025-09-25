@@ -1,8 +1,3 @@
-"""
-Bernhard Roth, 28.04.2021, ETH Zürich
-Function library for plotting and binning ptv data, especially saltation and boundary
-layer data.
-"""
 
 import math
 import numpy as np
