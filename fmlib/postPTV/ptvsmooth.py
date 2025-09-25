@@ -1,9 +1,3 @@
-"""
-Bernhard Roth, ETH Zürich, 08.04.2021, rothbe@ethz.ch
-Code to smooth trajectories and calculate velocities and acceleration form .ptv track files.
-TODO:
-        -write output as tracks
-"""
 import math
 import numpy as np
 import matplotlib.pyplot as plt
